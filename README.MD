@@ -13,9 +13,8 @@ Neste projeto, foram utilizados dados reais do LendingClub.com para construir um
 
 O random forest, uma poderosa técnica de machine learning, se destaca por sua capacidade de combinar múltiplas árvores de decisão para melhorar a precisão das previsões. Ele é particularmente eficaz em capturar padrões complexos e reduzir o risco de overfitting, garantindo previsões mais confiáveis. No entanto, o random forest também tem suas limitações. Por ser composto de várias árvores, pode ser computacionalmente intensivo e difícil de interpretar em comparação com modelos mais simples. Além disso, ele pode não performar tão bem com dados extremamente **desbalanceados**, o que exige cuidados adicionais na preparação dos dados.
 
-#DataScience #MachineLearning #RandomForest #LendingClub #Investimentos #Inovação
+#DataScience #MachineLearning #RandomForest #LendingClub 
 
-Clique aqui para acessar -> https://rfls7.github.io/portfolio_projetos/
 
 ## 🔧 Tecnologias 🔧
 
